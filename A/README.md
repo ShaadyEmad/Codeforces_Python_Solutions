@@ -1,15 +1,15 @@
 #  Solutions for A. problems
 - [4A - Watermelon](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/4A%20-%20Watermelon.py)\
-[problem link on codeforce](https://codeforces.com/problemset/problem/4/A)\
+[problem link on codeforce](https://codeforces.com/problemset/problem/4/A)
 
 - [9A - Die Roll](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/9A%20-%20Die%20Roll.py)\
-[problem link on codeforce](https://codeforces.com/problemset/problem/9/A)\
+[problem link on codeforce](https://codeforces.com/problemset/problem/9/A)
 
 - [34A - Reconnaissance 2](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/34A%20-%20Reconnaissance%202.py)\
-[problem link on codeforce](https://codeforces.com/problemset/problem/34/A)\
+[problem link on codeforce](https://codeforces.com/problemset/problem/34/A)
 
 - [38A - Army](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/38A%20-%20Army.py)\
-[problem link on codeforce](https://codeforces.com/problemset/problem/38/A)\
+[problem link on codeforce](https://codeforces.com/problemset/problem/38/A)
 
 - [41A - Translation](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/41A%20-%20Translation.py)\
 [problem link on codeforce](https://codeforces.com/problemset/problem/41/A)\
