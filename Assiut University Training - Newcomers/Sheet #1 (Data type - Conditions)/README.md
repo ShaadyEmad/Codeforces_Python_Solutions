@@ -45,7 +45,7 @@
 - [O - Calculator](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Sheet%20%231%20(Data%20type%20-%20Conditions)/O%20-%20Calculator.py)\
 [problem link on codeforce](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O)
 
-- [P - First digit !](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/new/main/Assiut%20University%20Training%20-%20Newcomers/Sheet%20%231%20(Data%20type%20-%20Conditions))\
+- [P - First digit !](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Sheet%20%231%20(Data%20type%20-%20Conditions)/P%20-%20First%20digit%20!.py)\
 [problem link on codeforce](https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P)
 
 - [Q - Coordinates of a Point](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Sheet%20%231%20(Data%20type%20-%20Conditions)/Q%20-%20Coordinates%20of%20a%20Point.py)\
