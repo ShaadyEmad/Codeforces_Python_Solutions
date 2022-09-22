@@ -26,7 +26,7 @@
 [112A - Petya and Strings](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/112A%20-%20Petya%20and%20Strings.py)\
 [problem link on codeforce](https://codeforces.com/problemset/problem/112/A)\
 \
-[146A - Lucky Ticket](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/146A - Lucky Ticket.py)\
+[146A - Lucky Ticket](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/146A%20-%20Lucky%20Ticket.py)\
 [problem link on codeforce](https://codeforces.com/problemset/problem/146/A)\
 \
 [151A - Soft Drinking](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/151A%20-%20Soft%20Drinking.py)\
