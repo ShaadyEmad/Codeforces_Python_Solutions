@@ -24,3 +24,5 @@
 - [H - Data Type Guessing](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/H.%20Data%20Type%20Guessing.py)\
 [problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H)
 
+- [I - Lucky Numbers](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/I%20-%20Lucky%20Numbers.py)\
+[problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I)
