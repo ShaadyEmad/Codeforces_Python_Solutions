@@ -12,6 +12,8 @@
 - [D - Ali Baba and Puzzles](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/D%20-%20Ali%20Baba%20and%20Puzzles.py)\
 [problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D)
 
-
 - [E - Interval Sweep](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/E%20-%20Interval%20Sweep.py)\
 [problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E)
+
+- [F - Adding Bits](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/F%20-%20Adding%20Bits.py)\
+[problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F)
