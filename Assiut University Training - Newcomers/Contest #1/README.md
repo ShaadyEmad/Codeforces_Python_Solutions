@@ -8,3 +8,6 @@
 
 - [C - Next Alphabet](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/C%20-%20Next%20Alphabet.py)\
 [problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C)
+
+- [D - Ali Baba and Puzzles](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/Assiut%20University%20Training%20-%20Newcomers/Contest%20%231/D%20-%20Ali%20Baba%20and%20Puzzles.py)\
+[problem link on codeforces](https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D)
