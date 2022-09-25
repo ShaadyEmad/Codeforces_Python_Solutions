@@ -55,3 +55,7 @@
 
 - [1729A - Two Elevators](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1729A%20-%20Two%20Elevators.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1729/A)
+
+- [1730A - Planets (solution 1)](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1730A%20-%20Planets%20(solution%201).py)\
+- [1730A - Planets (solution 2)](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1730A%20-%20Planets%20(solution%202).py)\
+[problem link on codeforces](https://codeforces.com/problemset/problem/1730/A)
