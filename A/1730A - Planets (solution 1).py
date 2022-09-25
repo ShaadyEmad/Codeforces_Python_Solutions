@@ -39,8 +39,7 @@ for case in range(t):
         cost = len(orbit)
 
     else:
-        orbit_set = set(orbit)
-        for element in orbit_set:
+        for element in set(orbit):
             count = count_duplicated(orbit,element)
             unique_list.append(count)
 
