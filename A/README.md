@@ -63,5 +63,5 @@
 - [1741A - Compare T-Shirt Sizes](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1741A%20-%20Compare%20T-Shirt%20Sizes.py)\
 [problem link on codeforces](https://codeforces.com/contest/1741/problem/A)
 
-- [1741A - Compare T-Shirt Sizes](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1742A%20-%20Sum.py)\
+- [1742A - Sum](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1742A%20-%20Sum.py)\
 [problem link on codeforces](https://codeforces.com/contest/1742/problem/A)
