@@ -10,3 +10,6 @@
 
 - [1744B - Even-Odd Increments](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1744B%20-%20Even-Odd%20Increments.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1744/B)
+
+- [1760B - Atilla's Favorite Problem](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1760B%20-%20Atilla's%20Favorite%20Problem.py)\
+[problem link on codeforces](https://codeforces.com/problemset/problem/1760/B)
