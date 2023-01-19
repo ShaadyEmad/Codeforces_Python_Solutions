@@ -13,3 +13,8 @@
 
 - [1760B - Atilla's Favorite Problem](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1760B%20-%20Atilla's%20Favorite%20Problem.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1760/B)
+
+- [1772B - Matrix Rotation](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1772B%20-%20Matrix%20Rotation.py)\
+[problem link on codeforces](https://codeforces.com/problemset/problem/1772/B)
+
+
