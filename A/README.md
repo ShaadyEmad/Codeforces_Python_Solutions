@@ -71,3 +71,6 @@
 
 - [1760A - Medium Number](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1760A%20-%20Medium%20Number.py)\
 [problem link on codeforces](https://codeforces.com/contest/1760/problem/A)
+
+- [1772A - A+B?](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1772A%20-%20A%2BB%3F.py)\
+[problem link on codeforces](https://codeforces.com/contest/1772/problem/A)
