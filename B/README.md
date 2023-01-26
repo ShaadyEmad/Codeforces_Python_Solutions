@@ -1,4 +1,4 @@
-#  Solutions for B. problems
+#  My solutions for B. problems
 - [1722B - Colourblindness](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1722B%20-%20Colourblindness.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1722/B)
 
