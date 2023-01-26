@@ -1,4 +1,4 @@
-#  Solutions for A. problems
+#  My solutions for A. problems
 - [4A - Watermelon](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/4A%20-%20Watermelon.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/4/A)
 
