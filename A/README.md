@@ -74,3 +74,6 @@
 
 - [1772A - A+B?](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1772A%20-%20A%2BB%3F.py)\
 [problem link on codeforces](https://codeforces.com/contest/1772/problem/A)
+
+- [1790A - Polycarp and the Day of Pi](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1790A%20-%20Polycarp%20and%20the%20Day%20of%20Pi.py)\
+[problem link on codeforces](https://codeforces.com/contest/1790/problem/A)
