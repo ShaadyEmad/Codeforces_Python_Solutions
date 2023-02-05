@@ -17,4 +17,6 @@
 - [1772B - Matrix Rotation](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1772B%20-%20Matrix%20Rotation.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1772/B)
 
+- [1791B - Following Directions](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1791B%20-%20Following%20Directions.py)\
+[problem link on codeforces](https://codeforces.com/problemset/problem/1791/B)
 
