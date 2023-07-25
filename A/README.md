@@ -80,3 +80,6 @@
 
 - [1791A - Codeforces Checking](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1791A%20-%20Codeforces%20Checking.py)\
 [problem link on codeforces](https://codeforces.com/contest/1791/problem/A)
+
+- [1850A - To My Critics](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1850A%20-%20To%20My%20Critics.py)\
+[problem link on codeforces](https://codeforces.com/contest/1850/problem/A)
