@@ -20,3 +20,5 @@
 - [1791B - Following Directions](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1791B%20-%20Following%20Directions.py)\
 [problem link on codeforces](https://codeforces.com/problemset/problem/1791/B)
 
+- [1850B - Ten Words of Wisdom](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1850B%20-%20Ten%20Words%20of%20Wisdom.py)\
+[problem link on codeforces](https://codeforces.com/contest/1850/problem/B)
