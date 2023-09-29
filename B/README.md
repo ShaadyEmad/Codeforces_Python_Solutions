@@ -22,3 +22,7 @@
 
 - [1850B - Ten Words of Wisdom](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1850B%20-%20Ten%20Words%20of%20Wisdom.py)\
 [problem link on codeforces](https://codeforces.com/contest/1850/problem/B)
+
+
+- [1873B - Good Kid](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/B/1873B%20-%20Good%20Kid.py)\
+[problem link on codeforces](https://codeforces.com/contest/1873/problem/B)
