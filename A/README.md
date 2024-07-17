@@ -66,7 +66,7 @@
 - [1742A - Sum](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1742A%20-%20Sum.py)\
 [problem link on codeforces](https://codeforces.com/contest/1742/problem/A)
 
-- [1744A - Sum](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1744A%20-%20Number%20Replacement.py)\
+- [1744A - Number Replacement](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1744A%20-%20Number%20Replacement.py)\
 [problem link on codeforces](https://codeforces.com/contest/1744/problem/A)
 
 - [1760A - Medium Number](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1760A%20-%20Medium%20Number.py)\
