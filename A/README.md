@@ -85,4 +85,4 @@
 [problem link on codeforces](https://codeforces.com/contest/1850/problem/A)
 
 - [1873A - Short Sort](https://github.com/ShaadyEmad/Codeforces_Python_Solutions/blob/main/A/1873A%20-%20Short%20Sort.py)\
-[problem link on codeforces](https://codeforces.com/contest/1873A/problem/A)
+[problem link on codeforces](https://codeforces.com/contest/1873/problem/A)
